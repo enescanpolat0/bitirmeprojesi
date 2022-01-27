@@ -1,0 +1,2 @@
+# bitirmeprojesi
+platformoyunu
